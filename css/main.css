@@ -1,0 +1,75 @@
+@charset "utf-8";
+/* Assignment 1 | COMP1073 Client-Side JavaScript */
+body{
+    text-align: center;
+    margin: 7%;
+    background-image: url('../images/background.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    
+}
+/* to list without bullet point*/
+ul{
+    list-style: none;
+}
+
+/* give style to li element which are in ul element*/
+ul > li{
+    font-family: 'Lucida Sans Unicode';
+    font-size: 170%;
+    background-color: rgba(255, 246, 147, 10%);
+    font-weight: bold;
+}
+/* style to li element which are inside of .sixValue class element */
+.sixValue > li{
+    padding-top: 35px;
+    padding-right: 30px;
+}
+
+.sevenValue > li{
+    padding-top: 27px;
+    padding-right: 30px;
+}
+
+
+li{
+    padding-top: 10px;
+}
+p{
+    clear: both;
+    color: blanchedalmond;
+    font-family: sans-serif;
+	font-size: 250%;
+	transition: all 1s;
+}
+.container{
+    clear: both;
+    padding: 50px;
+    
+}
+/*to change color of text inside button*/
+#placeButton, #nounButton, #adjectiveButton, #speakButton, #randomSpeakButton, #resetButton{
+    color: black;
+}
+/*all column elements' width and float to left.*/
+#col1{
+    width: 20%;
+    float: left;
+}
+#col2{
+    width: 20%;
+    float: left;
+}
+#col3{
+    width: 20%;
+    float: left;
+}
+#col4{
+    width: 20%;
+    float: left;
+}
+#col5{
+    width: 20%;
+    float: left;
+}
