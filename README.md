@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+I have created <h1>See and Say Story Maker</h1> with HTML5, JavaScript, CSS3 and Bootstrap library.
+<ul>
+  <li>In this user can press on different button to genereate noun, verb and adjective for sentence.</li>
+  <li>Random selection will be done from the list and stored in memory, while pressing button on the top of the list.</li>
+  <li>After Pressing <h2>Read the Story</h2> button, application will tell you the story you have just created.</li>
+  <li>If user wants to listen random story, this option also available from <h2>Random Story</h2> button.</li>
+  <li><h2>Reset</h2> button will start the application from begining.</li>
+</ul>
 
-You can use the [editor on GitHub](https://github.com/PriyankkumarPatel1/COMP-1073-200395828-Assignment-1/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/PriyankkumarPatel1/COMP-1073-200395828-Assignment-1/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+https://priyankkumarpatel1.github.io/SEE-and-SAY-STORY-MAKER/
